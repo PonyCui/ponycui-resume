@@ -30,7 +30,7 @@ googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
-hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
+hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
 # Get last modified date for content from Git?
@@ -63,9 +63,8 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "cuis@vip.qq.com"
-  # address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 9:30 to 18:30 or email for appointment"
-  wechat = "ponycui"
+  office_hours = "Monday to Friday 9:30 to 18:30, email for appointment."
+  # wechat = "ponycui"
   # skype = "echo123"
   # telegram = ""
   # keybase = ""  # Your keybase.io username.
@@ -333,13 +332,26 @@ enableGitInfo = false
   languageCode = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
-#[languages.zh]
-#  languageCode = "zh-Hans"
-#  title = "Chinese website title..."
-#  [languages.zh.params]
-#    name = "Your name in Chinese..."
-#    role = "Your role in Chinese..."
-#  [[languages.zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+[languages.zh]
+  languageCode = "zh-Hans"
+  title = "简历 - Pony Cui"
+  office_hours = "可邮件预约，工作日 9:30 至 18:30 见面。"
+  [languages.zh.params]
+    name = "崔明辉"
+    role = "全栈工程师"
+  [[languages.zh.menu.main]]
+    name = "主页"
+    url = "#about"
+    weight = 1
+  [[languages.zh.menu.main]]
+    name = "项目"
+    url = "#open_source_projects"
+    weight = 2
+  [[languages.zh.menu.main]]
+    name = "应用"
+    url = "#apps"
+    weight = 3
+  [[languages.zh.menu.main]]
+    name = "联系"
+    url = "#contact"
+    weight = 6
