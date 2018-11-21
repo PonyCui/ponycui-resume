@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Mobile Development",
     "Cross Platform Development",
-    "Open Source Software"
+    "Open Source Software",
+    "User Interface Research"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -25,4 +26,4 @@ weight = 5
 
 # Biography
 
-Pony Cui is a professional developer who focus on Cross Platform Application Framework now. He's a iOS developer since 2012, and transfered as a full stack developer since 2016. He has strong knowledge of Objective-C, Swift, JavaScript, TypeScript, Kotlin and Web programming. With skills, he creates many open-source libraries and frameworks.
+Pony Cui is a professional developer who focus on Cross Platform Application Framework now. He's an iOS developer since 2012, and transfered as a full stack developer since 2016. He has strong knowledge of Objective-C, Swift, JavaScript, TypeScript, Kotlin and Web programming. With skills, he created many open-source libraries and frameworks. 

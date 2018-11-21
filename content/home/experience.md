@@ -7,7 +7,7 @@ title = "Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 8
+weight = 69
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,27 +19,36 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Full Stack Software Engineer"
+  company = "UED Center, YY Inc."
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Guangzhou"
+  date_start = "2016-01-20"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * iOS & Android application development.
+  * SVGA animation library development.
+  * Cross Platform application library research.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "iOS Software Engineer"
+  company = "KOO Group"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Korea"
+  date_start = "2015-04-15"
+  date_end = "2016-01-20"
+  description = """KOOTV application development."""
+
+[[experience]]
+  title = "Software Engineer"
+  company = "Duowan Department, YY Inc."
+  company_url = "http://huanju.cn"
+  location = "Guangzhou"
+  date_start = "2012-08-13"
+  date_end = "2015-04-15"
+  description = """PHP backend development & iOS frontend development."""
 
 +++
