@@ -29,9 +29,7 @@ date_format = "January 2006"
 
   工作内容：
 
-  * iOS， Android 应用开发
-  * SVGA 动画库开发以及维护工作
-  * 跨平台应用开发方案研究
+  * Flutter 相关研究工作
   """
 
 [[experience]]
