@@ -19,12 +19,28 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Staff Engineer"
+  company = "BIGO Inc."
+  company_url = "https://bigo.sg"
+  location = "广州市"
+  date_start = "2019-02-18"
+  date_end = ""
+  description = """
+
+  工作内容：
+
+  * iOS， Android 应用开发
+  * SVGA 动画库开发以及维护工作
+  * 跨平台应用开发方案研究
+  """
+
+[[experience]]
   title = "全栈工程师"
   company = "欢聚时代 UED 中心 "
   company_url = "http://huanju.cn"
   location = "广州市"
   date_start = "2016-01-20"
-  date_end = ""
+  date_end = "2018-08-14"
   description = """
 
   工作内容：
