@@ -19,12 +19,25 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Staff Engineer"
+  company = "BIGO Inc."
+  company_url = ""
+  location = "Guangzhou"
+  date_start = "2019-02-18"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Flutter relates research.
+  """
+
+[[experience]]
   title = "Full Stack Software Engineer"
   company = "UED Center, YY Inc."
   company_url = ""
   location = "Guangzhou"
   date_start = "2016-01-20"
-  date_end = ""
+  date_end = "2018-08-14"
   description = """
   Responsibilities include:
   
