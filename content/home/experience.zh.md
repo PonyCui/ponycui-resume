@@ -27,8 +27,6 @@ date_format = "January 2006"
   date_end = ""
   description = """
 
-  工作内容：
-
   """
 
 [[experience]]
