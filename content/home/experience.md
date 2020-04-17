@@ -23,7 +23,7 @@ date_format = "January 2006"
   company = "广州壹糖网络科技有限公司"
   company_url = ""
   location = "Guangzhou"
-  date_start = "2019-04-07"
+  date_start = "2020-04-07"
   date_end = ""
   description = """
   Responsibilities include:
