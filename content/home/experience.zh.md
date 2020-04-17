@@ -29,7 +29,6 @@ date_format = "January 2006"
 
   工作内容：
 
-  * Flutter 相关研究工作
   """
 
 [[experience]]

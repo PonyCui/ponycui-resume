@@ -28,7 +28,6 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
   
-  * Flutter relates research.
   """
 [[experience]]
   title = "Staff Engineer"
